@@ -1,0 +1,1 @@
+1.查找so导出的函数脚本（导出的函数会经过RegisterNatives函数注册，直接hook so的函数）：https://github.com/lasting-yang/frida_hook_libart
